@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+[![wakatime](https://wakatime.com/badge/user/e2343ac7-cc5e-4e19-b7af-c04e9213a1cd.svg)](https://wakatime.com/@e2343ac7-cc5e-4e19-b7af-c04e9213a1cd)
 
 <!--
 **zhuojg/zhuojg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
